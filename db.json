@@ -1,6 +1,5 @@
 {
   "hotels": [
-    [
       {
         "id": "61067abdea9c9fbf1691b634",
         "index": 0,
@@ -79,6 +78,5 @@
         "image": "http://placehold.it/32x32",
         "price": "27-285$"
       }
-    ]
   ]
 }
