@@ -4,10 +4,13 @@ import 'semantic-ui-css/semantic.min.css'
 import './App.css';
 import Home from './pages/Home';
 import Hotels from './pages/Hotels';
+import Navbar from './components/navbar/Navbar';
 
 function App() {
   return (
     <Router>
+      <Navbar />
+
       <Switch>
         <Route path='/hotels'>
           <Hotels />
