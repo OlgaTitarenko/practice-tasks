@@ -11,7 +11,9 @@
         "address": "397 Malta Street, Laurelton, North Dakota, 9679",
         "about": "Mollit commodo anim do anim anim dolore ea occaecat labore exercitation dolore laboris. Nostrud pariatur do ut Lorem. Ad tempor occaecat dolore aute magna sint minim laborum culpa mollit. Qui officia aliquip incididunt excepteur exercitation esse culpa laboris minim. Aute nisi amet reprehenderit sunt exercitation voluptate. Et veniam commodo non consequat ipsum pariatur reprehenderit occaecat culpa eiusmod. Et cillum cillum deserunt et proident labore irure Lorem laborum aliqua enim.\r\n",
         "image": "http://placehold.it/32x32",
-        "price": "33-288$"
+        "price": "33-288$",
+        "rate": 4,
+        "stars": 1
       },
       {
         "id": "61067abd046b43ea7cb061f3",
@@ -24,7 +26,9 @@
         "address": "388 Union Avenue, Bawcomville, New Hampshire, 266",
         "about": "Dolore elit mollit dolor anim elit velit duis esse occaecat. Laborum in Lorem laboris non sit esse eu non amet. Sit eiusmod ullamco excepteur do sunt in ullamco enim et veniam cillum. Mollit proident nostrud eu reprehenderit anim occaecat. Deserunt sunt nulla do irure minim sit ipsum ut qui officia proident voluptate reprehenderit in. Occaecat anim reprehenderit laborum adipisicing excepteur eiusmod mollit. Nisi veniam cillum ut culpa fugiat deserunt nisi pariatur mollit pariatur irure occaecat id.\r\n",
         "image": "http://placehold.it/32x32",
-        "price": "70-273$"
+        "price": "70-273$",
+        "rate": 5,
+        "stars": 4
       },
       {
         "id": "61067abdc3d55fdf4d5b2e18",
@@ -37,7 +41,9 @@
         "address": "600 Bedford Place, Ebro, Massachusetts, 5955",
         "about": "Excepteur amet id nisi consequat exercitation id voluptate exercitation cillum dolor adipisicing amet aute. Laborum tempor amet est pariatur irure est sunt id laborum et aute cupidatat do id. Nostrud eiusmod non nostrud sunt do culpa velit ipsum aliquip aliqua deserunt amet aliqua.\r\n",
         "image": "http://placehold.it/32x32",
-        "price": "65-194$"
+        "price": "65-194$",
+        "rate": 4,
+        "stars": 4
       },
       {
         "id": "61067abdcc06eb63abdeea01",
@@ -50,7 +56,9 @@
         "address": "129 Metropolitan Avenue, Gilmore, Georgia, 7339",
         "about": "Adipisicing excepteur occaecat deserunt cillum officia sint aliquip exercitation dolor ea eu ut occaecat. Sunt veniam magna mollit id amet. Elit non proident aliquip mollit sit. Proident anim occaecat voluptate consectetur est magna consectetur.\r\n",
         "image": "http://placehold.it/32x32",
-        "price": "51-223$"
+        "price": "51-223$",
+        "rate": 6,
+        "stars": 2
       },
       {
         "id": "61067abdc48f43867e161a6c",
@@ -63,7 +71,9 @@
         "address": "537 Pacific Street, Sehili, Kansas, 8397",
         "about": "Laboris ipsum anim cupidatat do eu. Ea consectetur laboris magna laboris esse culpa ut duis ullamco. Anim consectetur consequat cillum veniam exercitation ut. Culpa cupidatat nisi laborum irure id consequat do sit ex ea ipsum. Ipsum veniam eiusmod nulla quis ea consequat veniam amet occaecat. Voluptate irure proident aliqua ipsum pariatur elit reprehenderit enim quis ipsum pariatur.\r\n",
         "image": "http://placehold.it/32x32",
-        "price": "30-228$"
+        "price": "30-228$",
+        "rate": 7,
+        "stars": 2
       },
       {
         "id": "61067abd6afcd9a1eecf714b",
@@ -76,7 +86,88 @@
         "address": "415 Denton Place, Ola, Michigan, 1536",
         "about": "Lorem labore dolor aliquip et incididunt non. Minim nostrud magna incididunt sunt eu eiusmod. Culpa id officia voluptate consectetur tempor in exercitation nostrud irure. Dolor labore cillum minim labore in sit exercitation veniam minim sunt ea fugiat Lorem. Reprehenderit est ipsum reprehenderit tempor irure Lorem ad occaecat ut laboris aute aliquip. Ea laborum laborum ut anim ipsum.\r\n",
         "image": "http://placehold.it/32x32",
-        "price": "27-285$"
+        "price": "27-285$",
+        "rate": 9,
+        "stars": 3
       }
+  ],
+  "apartments": [
+    {
+      "id": "61079e12bca0a01264269c2e",
+      "index": 0,
+      "guid": "a6aa2149-04d1-4c7c-879c-e08ba8c2f6ae",
+      "distance": 270,
+      "title": "Kyagoro",
+      "address": "661 Wolcott Street, Saranap, West Virginia, 1070",
+      "description": "Sunt nisi eu sit ad duis. Fugiat veniam et aliquip aute dolor magna eu. Officia sunt deserunt id proident sunt occaecat elit nisi reprehenderit. Aliquip laboris nulla adipisicing velit. Aliquip aliquip veniam adipisicing consequat. Ullamco laboris ut magna non eiusmod adipisicing nostrud proident aute.\r\n",
+      "image": "http://placehold.it/32x32",
+      "price": "30-280$",
+      "rate": 3
+    },
+    {
+      "id": "61079e122b136e4521fd8af0",
+      "index": 1,
+      "guid": "dfa7ae29-bc94-4e85-80e3-aa85085dfb02",
+      "distance": 339,
+      "title": "Gonkle",
+      "address": "715 Campus Road, Cazadero, Oregon, 4995",
+      "description": "Pariatur dolore occaecat excepteur excepteur ad sint Lorem incididunt irure et officia commodo dolor. Deserunt cupidatat non et in aute ut qui est amet cupidatat eiusmod do voluptate. Quis adipisicing Lorem irure sint consequat incididunt sunt cupidatat elit fugiat irure aliqua irure quis. Adipisicing voluptate ea ea pariatur irure ullamco dolore eu commodo. Magna ullamco ea sint laborum aliquip nulla Lorem irure veniam consectetur irure do voluptate nisi.\r\n",
+      "image": "http://placehold.it/32x32",
+      "price": "46-274$",
+      "rate": 1
+    },
+    {
+      "id": "61079e12ecb09866e0ebf49b",
+      "index": 2,
+      "guid": "39ea7480-956e-41e2-b91b-eec273b85fa2",
+      "distance": 54,
+      "title": "Extrawear",
+      "address": "809 Dover Street, Avalon, Maine, 3118",
+      "description": "Anim in reprehenderit laborum duis elit qui culpa incididunt consequat mollit culpa duis proident. Sit esse sit proident dolore quis reprehenderit nostrud aliquip in nulla esse. Mollit nisi incididunt quis laborum in non irure duis.\r\n",
+      "image": "http://placehold.it/32x32",
+      "price": "36-253$",
+      "rate": 5
+    }
+  ],
+  "lodges": [
+    {
+      "id": "61079eaa23f797d14adb899a",
+      "index": 0,
+      "guid": "fbdd1088-689f-48d3-9346-d3ca82a25670",
+      "distance": 422,
+      "title": "Neteria",
+      "address": "867 Harrison Place, Lynn, North Dakota, 6032",
+      "description": "Duis aliquip incididunt id adipisicing ad proident est ullamco duis qui occaecat excepteur nulla. Ut pariatur consequat mollit consequat exercitation elit ut cupidatat exercitation aliqua nostrud duis nulla dolore. Lorem ut occaecat minim dolor ipsum nulla. Duis laboris nulla in est nisi dolore non nisi. Amet velit cillum ad ea do sunt ex ea. Sint duis qui culpa do ea in quis proident amet ipsum aliquip reprehenderit mollit.\r\n",
+      "image": "http://placehold.it/32x32",
+      "price": "37-208$",
+      "rate": 6,
+      "starts": 5
+    },
+    {
+      "id": "61079eaa6fbde4de3a2e4220",
+      "index": 1,
+      "guid": "d2c36142-4bc4-4984-8ad6-13abc4e2e398",
+      "distance": 186,
+      "title": "Skinserve",
+      "address": "385 Campus Road, Ogema, Idaho, 2567",
+      "description": "Sint amet exercitation nulla quis elit et cillum fugiat exercitation. Non officia occaecat ex aute pariatur. Voluptate exercitation qui tempor elit excepteur consectetur ullamco non. Sint voluptate ullamco sint sunt veniam enim. Duis tempor tempor commodo do nisi. Labore velit ea officia est.\r\n",
+      "image": "http://placehold.it/32x32",
+      "price": "52-224$",
+      "rate": 1,
+      "starts": 2
+    },
+    {
+      "id": "61079eaa6c7dd5afde7d8a47",
+      "index": 2,
+      "guid": "992874ef-cd73-4152-87a5-db4a693a7b3e",
+      "distance": 163,
+      "title": "Stockpost",
+      "address": "146 Sands Street, Joes, Louisiana, 6190",
+      "description": "Enim dolor deserunt proident elit cupidatat est sint officia excepteur incididunt nostrud mollit. Adipisicing dolor incididunt do consequat dolor exercitation dolore elit cillum labore minim officia duis deserunt. Sunt irure elit aute in sit sunt ut amet deserunt magna non excepteur adipisicing.\r\n",
+      "image": "http://placehold.it/32x32",
+      "price": "21-107$",
+      "rate": 6,
+      "starts": 3
+    }
   ]
 }
