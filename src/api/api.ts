@@ -1,3 +1,4 @@
+
 /**
  * TODO: refactor this by adding typing and move api to constant
  * */
@@ -10,5 +11,5 @@ export function getApartments() {
 }
 
 export function getLoges() {
-    return fetch('http://localhost:4000/loges').then(r => r.json());
+    return fetch('http://localhost:4000/lodgs').then(r => r.json());
 }
